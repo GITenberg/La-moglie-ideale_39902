@@ -1,0 +1,27 @@
+_repo: La-moglie-ideale_39902
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39902-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Praga, Marco
+    birthdate: 1862
+    deathdate: 1929
+    gutenberg_agent_id: '25360'
+    url: http://www.gutenberg.org/2009/agents/25360
+description: ''
+gutenberg_bookshelf: IT Teatro in prosa
+gutenberg_issued: '2012-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39902'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Families -- Drama'
+title: 'La moglie ideale: commedia in tre atti'
+url: http://www.gutenberg.org/ebooks/39902
